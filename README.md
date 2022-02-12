@@ -1,4 +1,4 @@
-# latansamashiro
+# flutter-example
 
 A new Flutter project.
 
